@@ -98,7 +98,7 @@ Publish the website in the given URL.
 <body>
     <div class="box">
         <h1>Surface Area of Right Cylinder </h1>
-        <h2> ARJUN N S 212223230020 </h2>
+        <h2>  ASHWINA K N 212223230025 </h2>
 
         <form method="POST">
             <div class="formelt">
@@ -160,12 +160,14 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/NSArjun/MathServer/assets/148233801/508bd570-5c76-4ca8-971c-7cf4fb9a4afc)
+
+![EXP 5 1](https://github.com/Ashwinakn/MathServer/assets/152128332/da103d8e-948d-4ad7-8083-4f945fe869d2)
+
 
 
 ## HOMEPAGE:
-![image](https://github.com/NSArjun/MathServer/assets/148233801/8298808b-37b5-4cae-9c18-3fbf989d493f)
 
+![EXP 5 2](https://github.com/Ashwinakn/MathServer/assets/152128332/1d608b74-1f92-42e4-8cc6-31dddccaec4a)
 
 
 ## RESULT:
